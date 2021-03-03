@@ -14,6 +14,18 @@ Working on :
 - http://blocks.wickedtemplates.com. 
 </p>
 
+<p align="left">
+- http://30daysoftailwindcss.com. 
+</p>
+
+<p align="left">
+- http://tailwind-garden.michaelandreuzza.com. 
+</p>
+
+<p align="left">
+- http://brutalist.one. 
+</p>
+
 I Also send a newsletter for devs & designers, http://unicornsfeed.com
 
 
