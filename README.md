@@ -1,4 +1,4 @@
-Michael Andreuzza, Åland Islands
+**Michael Andreuzza, Åland Islands**
 
 I’m a self-taught product designer who codes and designs enough to ship. I focus on what works, stay consistent, and keep things simple.
 
