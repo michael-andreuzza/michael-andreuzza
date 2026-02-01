@@ -2,12 +2,12 @@
 
 I’m a self-taught product designer who codes and designs enough to ship. I focus on what works, stay consistent, and keep things simple.
 
-### Current Projects
+### Currently focused on: 
 
-- **[Lexington Themes](https://lexingtonthemes.com)** - Premium website templates and UI components
+- **[Lexington Themes](https://lexingtonthemes.com)** - Premium website templates crafted with Astro and Tailwind CSS.
 - **[Bearnie](https://bearnie.dev)** - Accessible components for Astro and Tailwind CSS. 
  
-### Current projects
+### Other projects
 - **[Oxbow UI](https://oxbowui.com)** - Tailwind CSS Blocks library
 - **[Just fucking use Astro](https://justfuckinguseastro.com)** - Why you should use Astro (rant)
 - **[Colors & Fonts](https://colorsandfonts.com)** - Curated design resources
@@ -16,7 +16,7 @@ I’m a self-taught product designer who codes and designs enough to ship. I foc
 - **[VSCode Themes](https://michaelandreuzza.com/themes/)** - Custom VSCode themes
 - **[Pricing Patterns](https://pricingpatterns.com)** - Pricing page inspiration and examples
 
-###  Connect
+###  Socials
 
 - [michaelandreuzza.com](https://michaelandreuzza.com)
 - [Twitter/X](https://x.com/mike_andreuzza)
