@@ -14,7 +14,7 @@ I design and code enough to ship.
 - **[Kromatika](https://github.com/michael-andreuzza/kromatika)** - An elegant color palette for user interfaces
 - **[SVG Doodles](https://svgdoodles.com)** - Hand-drawn SVG illustrations ready to copy-paste **- Open Source**
 - **[VSCode Themes](https://michaelandreuzza.com/themes/)** - Custom VSCode themes
-- **[Lexington Seo Astro integration](https://github.com/Lexington-Themes/lexington-seo)** - Astro SEO: meta, Open Graph, Twitter, JSON-LD, canonical, robots
+- **[Astro SEO integration](https://github.com/Lexington-Themes/lexington-seo)** - Astro SEO: meta, Open Graph, Twitter, JSON-LD, canonical, robots
 - **[Astro Image Inspector](https://github.com/Lexington-Themes/astro-image-inspector)** - Astro Dev Toolbar app that lets you inspect images on hover during local development: see actual size, render size, loading mode, and common warnings (upscaled, oversized source, missing dimensions)
 
 ###  Socials
