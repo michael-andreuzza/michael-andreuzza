@@ -11,6 +11,7 @@ I design and code enough to ship.
 ### Other projects
 - **[Oxbow UI](https://oxbowui.com)** - Tailwind CSS Blocks library. **- Open Source**
 - **[Astro Types](https://astrotypes.com)** - Browse pairings and install with a single command in your Astro project using the Astro Fonts API.
+- **[ UI Collective Organizaton](https://uicollective.org/)** - A professional association for independent UI creators.
 - **[Just fucking use Astro](https://justfuckinguseastro.com)** - Why you should use Astro (rant)
 - **[Colors & Fonts](https://colorsandfonts.com)** - Curated design resources
 - **[Kromatika](https://github.com/michael-andreuzza/kromatika)** - An elegant color palette for user interfaces
