@@ -6,7 +6,7 @@ I design and code enough to ship.
 
 - **[Lexington Themes](https://lexingtonthemes.com)** - Premium website templates crafted with Astro and Tailwind CSS.
 - **[Kobbe](https://kobbe.io/)** - Privacy-friendly and cookie-less analytics for your website.
-- **[On my land!](https://onmy.land/)** - More than a link in BIO  page.
+- **[Noncommon](https://noncommon.site/)** - More than a link in BIO  page.
 - **[Morrisson CMS](https://lexingtonthemes.com)** - A desktop editor for Astro on macOS and Windows that non-technical teams can use confidently. 
 - **[Bearnie](https://bearnie.dev)** - Accessible components for Astro and Tailwind CSS. **- Open Source**
  
