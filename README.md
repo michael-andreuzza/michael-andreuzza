@@ -11,6 +11,8 @@ I design and code enough to ship.
 - **[Bearnie](https://bearnie.dev)** - Accessible components for Astro and Tailwind CSS. **- Open Source**
  
 ### Other projects
+- **[Astro Skills](https://github.com/Lexington-Themes/astro-skills)** - Free agent skills for Astro + Tailwind: best practices, SEO, and content collections for AI coding tools. **- Open Source**
+- **[VHS Demo Videos](https://github.com/michael-andreuzza/vhs-demo-videos)** - Agent skill for making terminal demo videos as code with VHS .tape scripts. **- Open Source**
 - **[Oxbow UI](https://oxbowui.com)** - Tailwind CSS Blocks library. **- Open Source**
 - **[Astro Types](https://astrotypes.com)** - Browse pairings and install with a single command in your Astro project using the Astro Fonts API.
 - **[ UI Collective Organizaton](https://uicollective.org/)** - A professional association for independent UI creators.
