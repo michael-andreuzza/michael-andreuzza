@@ -6,6 +6,7 @@ I design and code enough to ship.
 
 - **[Lexington Themes](https://lexingtonthemes.com)** - Premium website templates crafted with Astro and Tailwind CSS.
 - **[Kobbe](https://kobbe.io/)** - Privacy-friendly and cookie-less analytics for your website.
+- **[Dabbit](https://dabbit.app/)** - The color picker your Mac deserved.
 
  
 ### Other projects
